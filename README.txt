@@ -1,5 +1,5 @@
 		=========================================
-					   HOW TO USE:
+			      HOW TO USE:
 		=========================================
 
 1. In a terminal, navigate to the directory containing the file "3d_rotation.exe"
